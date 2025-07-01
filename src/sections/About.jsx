@@ -1,5 +1,5 @@
 import React from "react";
-import profileImg from '../assets/profile_img.jpg' 
+import profileImg from "../assets/profile_img.jpg";
 
 const About = () => {
   return (
@@ -14,12 +14,19 @@ const About = () => {
             />
           </div>
           <div className="about w-half px-16">
-            <h1 className="text-4xl font-bold mb-4">About <span className="text-4xl font-bold mb-4 text-blue-300">Me</span></h1>
+            <h1 className="text-4xl font-bold mb-4">
+              About{"   "}
+              <span className="text-4xl font-bold mb-4 text-blue-300">Me</span>
+            </h1>
             <p className="text-lg max-w-2xl">
-              I am a passionate React developer with a keen interest in building
-              dynamic and responsive web applications. My journey in web
-              development has been fueled by a love for creating intuitive user
-              experiences and solving complex problems.
+              I am a dedicated CS student at Lahore Garrison
+              University with a strong focus on frontend development. I enjoy
+              building responsive, user-friendly interfaces that combine
+              functionality with visual appeal. Alongside my frontend work, I am
+              also actively exploring the field of Machine Learning, aiming to
+              bridge the gap between intelligent systems and user-centric
+              design. My academic projects and personal initiatives reflect a
+              commitment to clean code, problem-solving, and continuous growth.
             </p>
             <a
               href="/cv.pdf"
