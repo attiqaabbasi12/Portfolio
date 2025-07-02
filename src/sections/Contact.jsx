@@ -38,7 +38,7 @@ const Contact = () => {
             />
           </a>
           <a
-            href="https://twitter.com"
+            href="https://x.com/attiqaaabbasi"
             target="_blank"
             rel="noopener noreferrer"
           >
