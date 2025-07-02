@@ -4,7 +4,7 @@ import profileImg from "../assets/profile_img.jpg";
 const About = () => {
   return (
     <>
-      <div className="bg-gray-700 h-screen w-full">
+      <div id="about" className="bg-gray-700 h-screen w-full id='about'">
         <section className="flex flex-row items-center justify-center h-full text-white p-8">
           <div className="profile w-half px-16">
             <img
